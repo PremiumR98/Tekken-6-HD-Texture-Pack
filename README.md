@@ -7,7 +7,7 @@ This texture pack is a one-man project that began on 2016, now ready for its fir
 
 # What's New?
 ### `v0.3.1`
-- AI slopped the button prompts (face buttons+dpad, the old ones were terrible)
+- AI slopped the button prompts (face buttons+dpad, the old ones were terrible) for x2 (720p) res scale
 
 ### `v0.3`
 - 90% of UI elements are replaced
