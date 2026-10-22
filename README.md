@@ -6,6 +6,9 @@ This texture pack is a one-man project that began on 2016, now ready for its fir
 [![GitHub release](https://img.shields.io/badge/release-v0.3-green.svg)](https://github.com/kharij/Tekken-6-HD-Texture-Pack/releases/latest)
 
 # What's New?
+### `v0.3.1`
+- AI slopped the button prompts (face buttons+dpad, the old ones were terrible)
+
 ### `v0.3`
 - 90% of UI elements are replaced
 - BC1 artifact cleanups for certain stage textures.
